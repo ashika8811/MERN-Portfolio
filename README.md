@@ -1,4 +1,3 @@
-```markdown
 # MERN Portfolio
 
 This is a full-stack web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed to serve as a portfolio website template. It provides a platform for users to showcase their projects, skills, and contact information in an elegant and customizable manner.
@@ -81,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was inspired by the need for a simple yet functional portfolio website.
 - Special thanks to all the contributors who helped improve and maintain this project.
-```
+
