@@ -1,3 +1,6 @@
+## Link of the Report
+[Report link](https://docs.google.com/document/d/1zI-rQLiqXT0ZhOk78rKTH3jgmvscWW3J/edit?usp=sharing&ouid=102036245116059331854&rtpof=true&sd=true)
+
 # MERN Portfolio
 
 This is a full-stack web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed to serve as a portfolio website template. It provides a platform for users to showcase their projects, skills, and contact information in an elegant and customizable manner.
